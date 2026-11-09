@@ -1,0 +1,55 @@
+{
+  "applicationId": "app.tubepocket",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "minSdk": 26,
+  "targetSdk": 35,
+  "debuggable": false,
+  "signingCertificateMatchesPreviousVersions": true,
+  "unitTests": [
+    {
+      "name": "app.tubepocket.CookieFileTest",
+      "tests": "5",
+      "failures": "0",
+      "errors": "0"
+    },
+    {
+      "name": "app.tubepocket.CookieStoreTest",
+      "tests": "3",
+      "failures": "0",
+      "errors": "0"
+    },
+    {
+      "name": "app.tubepocket.DownloadPolicyTest",
+      "tests": "2",
+      "failures": "0",
+      "errors": "0"
+    },
+    {
+      "name": "app.tubepocket.ErrorMessagesTest",
+      "tests": "2",
+      "failures": "0",
+      "errors": "0"
+    },
+    {
+      "name": "app.tubepocket.VideoLinkTest",
+      "tests": "3",
+      "failures": "0",
+      "errors": "0"
+    }
+  ],
+  "bundledEngine": "2026.10.26",
+  "mobileBrowser": "Edge Android",
+  "mobileSupportEvidence": [
+    "https://github.com/Moustachauve/cookie-editor",
+    "https://microsoftedge.microsoft.com/addons/detail/cookieeditor/neaplmfkghagebokkhpjpoebhdledlfi",
+    "https://www.microsoft.com/zh-cn/edge/mobile"
+  ],
+  "deviceEdgeFlow": "Not verified",
+  "youtubeNetwork": "Not verified: environment proxy 403",
+  "artifact": {
+    "file": "TubePocket-1.0.3-arm64.apk",
+    "bytes": 56764373,
+    "sha256": "41520335808e430d586940ab8e98b70858a62d255003051cca00cf2c12c6ba62"
+  }
+}

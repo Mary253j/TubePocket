@@ -1,0 +1,6 @@
+
+> Task :app:lintRelease
+[Incubating] Problems report is available at: file:///workspace/TubePocket/build/reports/problems/problems-report.html
+
+BUILD SUCCESSFUL in 12s
+73 actionable tasks: 33 executed, 40 up-to-date

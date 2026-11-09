@@ -1,0 +1,8 @@
+
+app.tubepocket.DeviceSmokeTest:...
+
+Time: 92.861
+
+OK (3 tests)
+
+
